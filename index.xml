@@ -1,31 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Paper</title>
+    <title>Example YinYong Blog</title>
     <link>https://tyxxj.github.io/tyxxj/</link>
-    <description>Recent content on Paper</description>
+    <description>Recent content on Example YinYong Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright>
+    <language>en-us</language>
     <lastBuildDate>Fri, 26 Nov 2021 15:52:20 +0800</lastBuildDate><atom:link href="https://tyxxj.github.io/tyxxj/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>关于</title>
-      <link>https://tyxxj.github.io/tyxxj/game/</link>
-      <pubDate>Fri, 26 Nov 2021 15:52:20 +0800</pubDate>
-      
-      <guid>https://tyxxj.github.io/tyxxj/game/</guid>
-      <description> hi 喜欢炉石传说 不知道写点啥，先空着  </description>
-    </item>
-    
-    <item>
-      <title>关于我</title>
-      <link>https://tyxxj.github.io/tyxxj/%E5%85%B3%E4%BA%8E/</link>
-      <pubDate>Fri, 26 Nov 2021 15:52:20 +0800</pubDate>
-      
-      <guid>https://tyxxj.github.io/tyxxj/%E5%85%B3%E4%BA%8E/</guid>
-      <description> hi 喜欢炉石传说 不知道写点啥，先空着  </description>
-    </item>
-    
     <item>
       <title>滕王阁序</title>
       <link>https://tyxxj.github.io/tyxxj/posts/twgx/</link>
